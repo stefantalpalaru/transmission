@@ -85,6 +85,7 @@ public:
         ALT_SPEED_LIMIT_TIME_DAY,
         BLOCKLIST_ENABLED,
         BLOCKLIST_URL,
+        DEFAULT_TRACKERS,
         DSPEED,
         DSPEED_ENABLED,
         DOWNLOAD_DIR,
